@@ -1,0 +1,29 @@
+Server                   name public-ip username
+s1			52.3.254.67	ec2-user
+s2			54.144.130.55	ec2-user
+s3			35.153.93.17	ec2-user
+s4			54.166.163.125	ec2-user
+s5			54.166.138.193	ec2-user
+s6			18.233.66.218	ec2-user
+s7			35.153.17.152	ec2-user
+s8			34.224.95.21	ec2-user
+s9			34.229.66.237	ec2-user
+s10			54.174.219.127	ec2-user
+s11			107.23.96.40	ec2-user
+s12			54.167.90.171	ec2-user
+
+#########---FOR DOCKER SERVER-----
+
+Server                   name public-ip username
+Ds1			3.19.73.113	ec2-user
+Ds2			18.217.125.130	ec2-user
+Ds3			52.14.12.117	ec2-user
+Ds4			18.224.37.0	ec2-user
+Ds5			18.219.68.31	ec2-user
+Ds6			18.216.78.255	ec2-user
+Ds7			18.217.127.240	ec2-user
+Ds8			18.189.26.234	ec2-user
+Ds9			18.222.33.47	ec2-user
+Ds10			3.17.4.187	ec2-user
+Ds11			3.131.91.130	ec2-user
+Ds12			18.191.38.105	ec2-user
